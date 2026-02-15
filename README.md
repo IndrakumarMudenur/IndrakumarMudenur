@@ -1,5 +1,5 @@
 # Hello there!
-🤝 I’m looking to collaborate on:<br>Open-source Python or MERN-based full-stack projects<br><br>💬 I’m looking for help with:<br>Improving backend architecture and deployment pipelines (CI/CD & AWS)<br><br>🌱 I’m currently learning:<br>Java DSA, Devops and Ai integration<br><br>💬 Ask me about:<br>Java backend, MongoDB, DevOps<br><br>⚡ Fun fact:<br>I started coding by building small command-line games and now love automating things with scripts!<br>
+🤝 I’m looking to collaborate on:<br>Open-source Python or MERN-based full-stack projects<br><br>💬 I’m looking for help with:<br>Improving backend architecture and deployment pipelines (CI/CD & AWS)<br><br>🌱 I’m currently learning:<br>python DSA, Devops and Ai integration<br><br>💬 Ask me about:<br>python backend, MongoDB, DevOps<br><br>⚡ Fun fact:<br>I started coding by building small command-line games and now love automating things with scripts!<br>
 
 
 ## 🌐 Socials:
